@@ -23,7 +23,38 @@
   },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "AbstractBeigeBackgroundTiles",
+      "persistentUuid": "9cdd6d6f-588e-44f1-b64a-136cd0ea009f",
+      "width": 0,
+      "x": 746,
+      "y": 367,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "AbstractBrownBackgroundTiles",
+      "persistentUuid": "3fc04f1e-f25d-4307-abbc-e811ac395565",
+      "width": 0,
+      "x": 908,
+      "y": 314,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
   "objects": [],
   "objectsFolderStructure": {
     "folderName": "__ROOT"
