@@ -1,13 +1,13 @@
 {
-  "b": 209,
+  "b": 189,
   "disableInputWhenNotFocused": true,
   "mangledName": "Level_32Jake",
   "name": "Level Jake",
-  "r": 209,
+  "r": 82,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "",
-  "v": 209,
+  "v": 38,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
